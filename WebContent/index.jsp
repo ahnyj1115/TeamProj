@@ -7,6 +7,9 @@
 <title>index.jsp</title>
 </head>
 <body>
-
+	<h2>GIT 사용법</h2>
+	<p>
+		git은 버전관리 도구입니다.
+	</p>
 </body>
 </html>
