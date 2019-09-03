@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>template.jsp</title>
 </head>
 <body>
 	<h3>내용추가</h3>
